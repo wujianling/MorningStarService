@@ -1,0 +1,6 @@
+Name: authcenter.rpc
+ListenOn: 0.0.0.0:8081
+Etcd:
+  Hosts:
+  - 115.239.217.220:2379
+  Key: authcenter.rpc
